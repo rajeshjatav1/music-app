@@ -1,0 +1,10 @@
+*,html{
+    margin: 0px;
+    padding: 0;
+}
+.maincontainer{
+    font-family: 'Varela Round', sans-serif;
+    background-image:url();
+    background: url("back.avif") center center/cover no-repeat;
+
+}
